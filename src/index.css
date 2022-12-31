@@ -1,0 +1,13 @@
+:root {
+  --dark_blue: "3A0CA3";
+  --light_blue: "4361EE";
+  --cyan: "4CC9F0";
+  --purple: "7209B7";
+  --pink: "F72585";
+}
+
+header {
+  background-color: var(--dark_blue);
+}
+
+
